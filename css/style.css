@@ -2,9 +2,16 @@
     background-color: black;
     font-size: 20pt;
     font-weight: 700;
-    
+
 }
 
 .text-color-css {
     color: rgb(255, 43, 43) !important;
+}
+
+.background {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
 }
