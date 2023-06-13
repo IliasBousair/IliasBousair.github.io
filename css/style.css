@@ -31,3 +31,19 @@
 .btn-about {
     
 }
+
+.offcanvas-body {
+background-color: black;
+border: 1px solid red;
+}
+
+.offcanvas{
+    background-color: black;
+}
+
+.nav-item {
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.dropdown-menu
