@@ -101,6 +101,8 @@
     color: white;
 }
 
+.card
+
 button:hover {
     background-color: rgb(97, 97, 97);
     box-shadow: 0 4px rgb(255, 0, 0);
