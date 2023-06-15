@@ -28,8 +28,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.btn-about {
-    
+.navbar-brand {
+    background-color: black;
 }
 
 .offcanvas-body {
@@ -38,6 +38,9 @@ border: 3px solid red;
 border-radius: 10px;
 }
 
+.home-page {
+    height: 100vh;
+}
 
 .nav-item {
     font-size: 20pt;
@@ -102,4 +105,8 @@ button:active {
     cursor: pointer;
     margin-top: 80px;
     margin-left: 70px;
+}
+
+.background-black{
+    background-color: black;
 }
