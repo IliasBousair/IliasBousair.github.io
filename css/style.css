@@ -36,10 +36,14 @@
 background-color: black;
 border: 3px solid red;
 border-radius: 10px;
+border-top-right-radius: 0px;
+border-top-left-radius: 0px;
+border-top: 0px;
 }
 
 .home-page {
     height: 100vh;
+    padding: 200px;
 }
 
 .nav-item {
