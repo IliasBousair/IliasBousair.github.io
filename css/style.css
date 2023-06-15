@@ -132,6 +132,14 @@
     box-shadow: 0px 0px 10px 5px rgb(81, 159, 211);
 }
 
+.card-3 {
+    background-color: black;
+    border: 2px solid rgb(127, 0, 177);
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 5px rgb(127, 0, 177);
+}
+
+
 
 button:hover {
     background-color: rgb(97, 97, 97);
