@@ -33,12 +33,18 @@
 }
 
 .offcanvas-body {
-background-color: black;
-border: 3px solid red;
-border-radius: 10px;
-border-top-right-radius: 0px;
-border-top-left-radius: 0px;
-border-top: 0px;
+    background-color: black;
+    border: 3px solid red;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+    border-top: 0px;
+}
+
+
+.img-ilias {
+    border: 5px solid #000000;
+    box-shadow: 19px 20px 10px 0px #ff0d0d80;
 }
 
 .home-page {
@@ -50,6 +56,11 @@ border-top: 0px;
     font-size: 20pt;
     font-weight: bold;
     color: white;
+}
+
+.text-about {
+    border: 3px solid black;
+    box-shadow: 0px 0px 10px 0px #00000080;
 }
 
 .navbar {
@@ -111,6 +122,6 @@ button:active {
     margin-left: 70px;
 }
 
-.background-black{
+.background-black {
     background-color: black;
 }
