@@ -65,7 +65,14 @@
     box-shadow: 19px 20px 10px 0px #ff0d0d80;
 }
 
+.img-color {
+    border: 3px solid rgb(0, 166, 255);
+    border-radius: 20px;
+}
 
+.progress-bar-animated {
+    right: auto;
+}
 
 .home-page {
     height: 100vh;
@@ -155,7 +162,7 @@
 }
 
 .card-project:hover {
-box-shadow: 0px 0px 40px 10px rgb(48, 62, 92);
+    box-shadow: 0px 0px 40px 10px rgb(48, 62, 92);
 }
 
 
